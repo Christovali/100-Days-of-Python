@@ -1,11 +1,11 @@
 # Beginner Project: Simple Calculator
 
-This is a beginner-level Python project that performs basic Input and Output to create a band name from two questions.
-This is the first project of day one in Dr. Angela Yu's 100 days of python course.
+This is a beginner-level Python project that performs basic arithmetic to compute the amount each person at a given restuarant or other establishment would pay if te bill with tip was split.
+This is the first project of day two of Dr. Angela Yu's 100 days of python course.
 There is also a solution I will provided within the files for comparison between mine and Angela's.
 
 ## Features
-- Creates a band name based on inputs from users.
+- Computes the amount each person at a given restuarant or other establishment would pay if te bill with tip was split.
 
 ## Technologies Used
 Python 3.10
@@ -14,6 +14,8 @@ Python 3.10
 - Basic Python syntax
 - Handling user inputs
 - Using functions to organize code
+- Arthmetic 
+- Round Function
 
 ## How to Run
 1. Clone this repository using PyCharm or Git:

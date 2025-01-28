@@ -1,0 +1,21 @@
+# Beginner Project: Simple Calculator
+
+This is a beginner-level Python project that performs basic Input and Output to create a band name from two questions.
+This is the first project of day one in Dr. Angela Yu's 100 days of python course.
+There is also a solution I will provided within the files for comparison between mine and Angela's.
+
+## Features
+- Creates a band name based on inputs from users.
+
+## Technologies Used
+Python 3.10
+
+## Lessons Learned
+- Basic Python syntax
+- Handling user inputs
+- Using functions to organize code
+
+## How to Run
+1. Clone this repository using PyCharm or Git:
+   ```bash
+   git clone <repository-url>
